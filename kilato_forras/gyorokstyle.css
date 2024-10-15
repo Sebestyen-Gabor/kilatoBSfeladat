@@ -1,0 +1,14 @@
+body{
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#cím{
+    background-image: url("panorama.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#magas{
+    height: 190px;
+    text-align: center;
+}
